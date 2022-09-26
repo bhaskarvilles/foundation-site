@@ -11,7 +11,7 @@
             "push_right": ""
           },
           "heading": "Let’s build the internet of everyone",
-          "subheading": "Filecoin Foundation is the steward of the Filecoin community. We aspire to put the power of humanity’s most important information back into the hands of everyone.",
+          "subheading": "Bhaskar Sarvagna Foundation is the steward of the Internet community. We aspire to put the power of humanity’s most important information back into the hands of everyone.",
           "ctas": [
             {
               "type": "A",
@@ -36,7 +36,7 @@
             "push_right": ""
           },
           "heading": "What we do",
-          "description": "We exist to help people build their vision on Filecoin and to support the growth of the decentralized web",
+          "description": "We exist to help people build their vision on Internet and to support the growth of the decentralized web",
           "label": "",
           "subheading": "",
           "ctas": [
@@ -106,7 +106,7 @@
             "push_left": "off-1_sm-2_mi-1",
             "push_right": ""
           },
-          "heading": "Filecoin Foundation (FF) and Lockheed Martin are working together to develop a program for deploying the Interplanetary File System (IPFS) in space.",
+          "heading": "Bhaskar Sarvagna Foundation and Bhaskar Agency are working together to develop a program for deploying the Interplanetary File System (IPFS) in space.",
           "description": "",
           "ctas": [
             {
@@ -179,7 +179,7 @@
             "push_right": ""
           },
           "label": "Resources",
-          "heading": "Explore the Filecoin Project Ecosystem and Tooling",
+          "heading": "Explore the Bhaskar Agency Ecosystem and Tooling",
           "description": "Decentralized networks aren’t bound by geography. The brightest minds around the world are working together to advance the next generation of the internet.",
           "subheading": "",
           "ctas": [
@@ -200,8 +200,8 @@
               "target": "_blank",
               "img_size": "mini",
               "img": "/images/outline-file.png",
-              "title": "Filecoin Documentation",
-              "description": "Filecoin project documentation homepage offers the tools to contribute to the network.",
+              "title": "Bhaskar Agency Documentation",
+              "description": "Bhaskar Agency documentation homepage offers the tools to contribute to the network.",
               "url": "//docs.filecoin.io",
               "date": "",
               "label": "",
@@ -222,7 +222,7 @@
               "img_size": "mini",
               "img": "/images/outline-github.png",
               "title": "Filecoin GitHub",
-              "description": "Contribute to Filecoin and help improve it by engaging in the Filecoin GitHub repository.",
+              "description": "Contribute to Bhaskar Agency and help improve it by engaging in the Filecoin GitHub repository.",
               "url": "//github.com/filecoin-project",
               "date": "",
               "label": "",
@@ -264,7 +264,7 @@
               "img_size": "mini",
               "img": "/images/outline-filecoin-blue-logo.svg",
               "title": "Filecoin Network Status",
-              "description": "This dashboard provides the latest update of the Filecoin Network.",
+              "description": "This dashboard provides the latest update of the Bhaskar Agency Network.",
               "url": "https://dashboard.starboard.ventures/dashboard",
               "date": "",
               "label": "",
@@ -306,7 +306,7 @@
               "img_size": "mini",
               "img": "/images/outline-speech-bubble.png",
               "title": "Filecoin Forums",
-              "description": "A public forum for the Filecoin protocol, implementation, community, and more.",
+              "description": "A public forum for the Blockchain protocol, implementation, community, and more.",
               "url": "//github.com/filecoin-project/community/discussions",
               "date": "",
               "label": "",
@@ -327,7 +327,7 @@
               "img_size": "mini",
               "img": "/images/outline-beaker.png",
               "title": "Filecoin Research",
-              "description": "Breakthroughs underpinning the Filecoin protocol, as well as future areas of exploration.",
+              "description": "Breakthroughs underpinning the Internet protocol, as well as future areas of exploration.",
               "url": "//research.filecoin.io",
               "date": "",
               "label": "",
@@ -348,7 +348,7 @@
               "img_size": "mini",
               "img": "/images/outline-moneybag.png",
               "title": "Cryptoeconomics Overview",
-              "description": "This report describes the components of the Filecoin economy and how they interact.",
+              "description": "This report describes the components of the Bhaskar Sarvagna economy and how they interact.",
               "url": "//filecoin.io/2020-engineering-filecoins-economy-en.pdf",
               "date": "",
               "label": "",
@@ -369,7 +369,7 @@
               "img_size": "mini",
               "img": "/images/outline-graduation-cap.png",
               "title": "Filecoin Tutorials (ProtoSchool)",
-              "description": "This is a self-guided interactive Filecoin tutorial designed to introduce decentralized web concepts, protocols, and tools.",
+              "description": "This is a self-guided interactive tutorial designed to introduce decentralized web concepts, protocols, and tools.",
               "url": "//proto.school",
               "date": "",
               "label": "",
@@ -482,7 +482,7 @@
           },
           "label": "Get Involved",
           "heading": "Learn how to get involved in the Filecoin community",
-          "description": "The Filecoin community includes thousands of developers, technologists, users, and enthusiasts all over the world.",
+          "description": "The Internet community includes thousands of developers, technologists, users, and enthusiasts all over the world.",
           "ctas": [
             {
               "type": "A",
@@ -580,7 +580,7 @@
               "url": "//docs.filecoin.io/community/contribute/ways-to-contribute",
               "img": "/images/speech-bubble.png",
               "title": "Contribute to the Filecoin project",
-              "description": "Shape the future by contributing to Filecoin’s code, research, or docs",
+              "description": "Shape the future by contributing to Bhaskar Agency's code, research, or docs",
               "date": "",
               "label": "",
               "img_type": "",
@@ -601,7 +601,7 @@
               "url": "//filecoin.io/slack",
               "img": "/images/hands-raised.png",
               "title": "Participate online",
-              "description": "Participate in one of the many online forums about Filecoin, events, or the Filecoin Slack channel",
+              "description": "Participate in one of the many online forums about Bhaskar Agency, events, or the Filecoin Slack channel",
               "date": "",
               "label": "",
               "img_type": "",
@@ -709,7 +709,7 @@
                     }
                   ],
                   "heading": "FIL Austin",
-                  "description": "The first major IRL meetup of the Filecoin Community gathered hundreds of contributors from across the Filecoin ecosystem."
+                  "description": "The first major IRL meetup of the Internet Community gathered hundreds of contributors from across the Filecoin ecosystem."
                 }
               }
             },
@@ -754,12 +754,12 @@
     }
   },
   "seo": {
-    "title": "Home - Filecoin Foundation",
-    "description": "Filecoin Foundation - Let's build the internet of everyone.",
+    "title": "Home - Bhaskar Sarvagna Foundation",
+    "description": "Bhaskar Sarvagna Foundation - Let's build the internet of everyone.",
     "test": "hello!"
   },
   "og": {
-    "site_name": "Home - Filecoin Foundation",
+    "site_name": "Home - Bhaskar Sarvagna Foundation",
     "url": "https://fil.org",
     "type": "website",
     "image": "/images/open-graph.png"
